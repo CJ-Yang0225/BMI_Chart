@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jerry.bmitemperatureconversion.MainActivity">
+    <item
+        android:id="@+id/action_bmi"
+        android:orderInCategory="100"
+        android:title="BMI計算"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_chart"
+        android:orderInCategory="100"
+        android:title="BMI圖表"
+        app:showAsAction="never" />
+
+</menu>

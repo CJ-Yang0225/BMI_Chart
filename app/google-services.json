@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421964922858",
+    "firebase_url": "https://bmi-chart-33d68.firebaseio.com",
+    "project_id": "bmi-chart-33d68",
+    "storage_bucket": "bmi-chart-33d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421964922858:android:00621df44782a2eecc3c93",
+        "android_client_info": {
+          "package_name": "com.example.jerry.bmi_chart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421964922858-ccsfn08pjeatbq6j902s507hb9ev4dq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jerry.bmi_chart",
+            "certificate_hash": "c521b68ba1c5f40b92aaae75dd808024849040cb"
+          }
+        },
+        {
+          "client_id": "421964922858-6lmtbnput5a3ic67bnek6dgb431v49v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2pXLNuvPZrFCSAMMQpsbRN56QfKnvHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421964922858-6lmtbnput5a3ic67bnek6dgb431v49v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
